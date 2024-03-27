@@ -3,21 +3,21 @@ This is a data of Data-Analysis students of Skillharvest academy; who filled the
 
 ## DOCUMENTATION OUTLINE
 
-- Project Overview
+- [Project Overview](#project-overview)
 
-- Project Objectives
+- [Project Objectives](#the-project-objectives)
 
-- Data Sources
+- [Data Sources](#data-sources)
 
-- Tools Used for Analysis
+- [Tools Used for Analysis](#tools-used-for-analysis)
 
-- Data Cleaning Preparation & Transformation
+- [Data Cleaning, Preparation and Transformation](#data-cleaning-preparation-and-transformation)
 
-- Observations and Results
+- [Observations and Results](#observations-and-results)
 
-- Recommendations
+- [Recommendations](#recommendations)
 
-- Contact Info
+- [Contact Info](#contact-info)
 
 ## Project Overview
 This project is to tell a story on attrition based on employee statistics and analyze various metrics related to the
@@ -42,7 +42,7 @@ The data was provided by the SkilHarvest Data Analysis Instructor in xlsx format
 - MS Power BI for Report & Visualization [Download Here](https://powerbi.microsoft.com/en-us/downloads/)
 - MS Powerpoint for presentation [Download Here](https://www.microsoft.com/en/microsoft-365/powerpoint)
   
-## Data Cleaning, Preparation & Transformation
+## Data Cleaning, Preparation and Transformation
 
 
 
