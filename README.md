@@ -34,8 +34,8 @@ Attrition Analysis II shows attrition by monthly income, overtime, etc.
 
 
 ## Data Sources
-The data was provided by the SkilHarvest Data Analysis Instructor in xlsx format.
-
+The Raw data was provided by all interns in the academy; filling a survey form in xlsx format.   Raw Data consisted of 45 rows and 10 columns; totals 450 data entries of the data analysis interns of the training academy.
+![](rawdata.png)
 
 ## Tools Used for Analysis
 - Ms Excel for Data Cleaning [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
@@ -43,7 +43,7 @@ The data was provided by the SkilHarvest Data Analysis Instructor in xlsx format
 - MS Powerpoint for presentation [Download Here](https://www.microsoft.com/en/microsoft-365/powerpoint)
   
 ## Data Cleaning, Preparation and Transformation
-![](rawdata.png)
+
 
 
 ## Observations and Results
