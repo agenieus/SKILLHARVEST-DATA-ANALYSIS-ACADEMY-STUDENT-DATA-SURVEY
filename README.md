@@ -47,7 +47,7 @@ The data was provided by the SkilHarvest Data Analysis Instructor in xlsx format
 
 
 ## Observations and Results
-
+![](skillharvestinterns.png)
 
 
 ## Recommendations
