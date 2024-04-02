@@ -1,5 +1,5 @@
 # SKILLHARVEST DATA ANALYSIS ACADEMY STUDENT DATA-SURVEY
-This is a data of Data-Analysis students of Skillharvest academy; who filled the data form with some metrics to analyze the class.
+This is a data of Data-Analysis students of Skillharvest academy; Cohort 2 of 2024; who filled the data form with some metrics to analyze the class.
 
 ## DOCUMENTATION OUTLINE
 
@@ -20,8 +20,7 @@ This is a data of Data-Analysis students of Skillharvest academy; who filled the
 - [Contact Info](#contact-info)
 
 ## Project Overview
-This project is to tell a story on attrition based on employee statistics and analyze various metrics related to the
-workforce, such as employee attrition, performance rating, job satisfaction, etc.
+This project is to tell a story about the academy population demography based on metrics sych as Country of residence, marital status,gender, education, profession, etc.
 
 ## The Project Objectives
 Demographics- this summarizes employee statistics such as age group, gender, marital status, etc,
