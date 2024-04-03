@@ -50,7 +50,7 @@ The Raw data was provided by all interns in the academy; filling a google survey
 
 - - In Summary; we have a stable class disparity between both genders;
   - We also have a lot of single students taking up the challenge to learn data analysis. This is a very key trend that shouldn't be ignored
-and most of them are within the age-group of 20-24.
+and most of them are within the age-group of 20-34.
 
 
 
